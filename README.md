@@ -80,7 +80,6 @@ falls into High Risk tiers under this combined view.
 - Interactive table of all risk segments, filterable by region, loan
   type, and income bracket, with conditional formatting by risk tier
 
-![Dashboard Page 1](images/dashboard_page1.png)
 
 ## Repository Structure
 

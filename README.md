@@ -108,6 +108,4 @@ loan-default-risk-dashboard/
 
 Jeel Limbani
 
-![Dashboard](images/dashboard_page1.png)
 
-## Repository Structure
